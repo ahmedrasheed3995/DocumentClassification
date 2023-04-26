@@ -1,0 +1,9 @@
+datasets
+matplotlib
+numpy
+pandas
+Pillow
+pytesseract
+scikit_learn
+tqdm
+transformers
